@@ -3,7 +3,7 @@ from huggingface_hub import HfApi, create_repo
 import os
 
 
-repo_id = "weiqi001/bank-customer-churn"
+repo_id = "weiqi001/bank-customer-churn-4"
 repo_type = "dataset"
 
 # Initialize API client
