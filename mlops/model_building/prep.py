@@ -61,6 +61,6 @@ for file_path in files:
     api.upload_file(
         path_or_fileobj=file_path,
         path_in_repo=file_path.split("/")[-1],  # just the filename
-        repo_id="weiqi001/bank-customer-churn",
+        repo_id="weiqi001/bank-customer-churn-4",
         repo_type="dataset",
     )
