@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/e00e009051184d29a270245a5eff36e9/artifacts
+end_time: 1785140001096
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: e00e009051184d29a270245a5eff36e9
+run_name: orderly-koi-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785140001015
+status: 3
+tags: []
+user_id: '28215'

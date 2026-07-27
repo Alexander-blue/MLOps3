@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/3fdb78fa7cb64fafa2c0d86c387aeae0/artifacts
+end_time: 1785139995258
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 3fdb78fa7cb64fafa2c0d86c387aeae0
+run_name: intrigued-fly-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139995175
+status: 3
+tags: []
+user_id: '28215'

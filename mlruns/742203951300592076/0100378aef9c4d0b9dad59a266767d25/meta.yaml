@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/0100378aef9c4d0b9dad59a266767d25/artifacts
+end_time: 1785139997250
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 0100378aef9c4d0b9dad59a266767d25
+run_name: honorable-cub-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139997165
+status: 3
+tags: []
+user_id: '28215'

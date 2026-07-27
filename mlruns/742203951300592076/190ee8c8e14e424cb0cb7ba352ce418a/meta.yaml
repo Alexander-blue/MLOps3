@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/190ee8c8e14e424cb0cb7ba352ce418a/artifacts
+end_time: 1785139996626
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 190ee8c8e14e424cb0cb7ba352ce418a
+run_name: adorable-shad-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139996536
+status: 3
+tags: []
+user_id: '28215'

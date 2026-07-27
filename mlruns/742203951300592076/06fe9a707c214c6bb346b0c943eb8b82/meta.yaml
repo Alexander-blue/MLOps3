@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/06fe9a707c214c6bb346b0c943eb8b82/artifacts
+end_time: 1785139993063
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 06fe9a707c214c6bb346b0c943eb8b82
+run_name: tasteful-mouse-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139992987
+status: 3
+tags: []
+user_id: '28215'

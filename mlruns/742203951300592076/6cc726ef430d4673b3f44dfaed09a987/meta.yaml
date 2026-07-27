@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/6cc726ef430d4673b3f44dfaed09a987/artifacts
+end_time: 1785139996836
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 6cc726ef430d4673b3f44dfaed09a987
+run_name: overjoyed-calf-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139996754
+status: 3
+tags: []
+user_id: '28215'

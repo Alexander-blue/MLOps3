@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/13613c5909ca4af3805083be0fb65ea2/artifacts
+end_time: 1785139997679
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 13613c5909ca4af3805083be0fb65ea2
+run_name: brawny-conch-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139997591
+status: 3
+tags: []
+user_id: '28215'

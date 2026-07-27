@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/c08e5dfc1b7d4952afe5db2fdb4ef962/artifacts
+end_time: 1785140000774
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: c08e5dfc1b7d4952afe5db2fdb4ef962
+run_name: charming-skunk-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785140000688
+status: 3
+tags: []
+user_id: '28215'

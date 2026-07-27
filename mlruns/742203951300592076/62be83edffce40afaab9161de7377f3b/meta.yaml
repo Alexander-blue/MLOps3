@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/62be83edffce40afaab9161de7377f3b/artifacts
+end_time: 1785139992969
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 62be83edffce40afaab9161de7377f3b
+run_name: gifted-chimp-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139992889
+status: 3
+tags: []
+user_id: '28215'

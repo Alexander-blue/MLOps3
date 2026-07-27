@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/b051c94d98a64865a178a1a0d48cf49d/artifacts
+end_time: 1785139996514
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: b051c94d98a64865a178a1a0d48cf49d
+run_name: wistful-swan-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139996425
+status: 3
+tags: []
+user_id: '28215'

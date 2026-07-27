@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/29fa668c6d524dad8aac96c4c9361995/artifacts
+end_time: 1785140000034
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 29fa668c6d524dad8aac96c4c9361995
+run_name: invincible-carp-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139999949
+status: 3
+tags: []
+user_id: '28215'

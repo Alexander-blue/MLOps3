@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/3e261a8095204122b974c5e54590e09c/artifacts
+end_time: 1785139998968
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 3e261a8095204122b974c5e54590e09c
+run_name: nosy-mule-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139998881
+status: 3
+tags: []
+user_id: '28215'

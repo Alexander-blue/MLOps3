@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/3ab2b0b490024f3f89b046d3e5797325/artifacts
+end_time: 1785139994299
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 3ab2b0b490024f3f89b046d3e5797325
+run_name: charming-slug-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139994221
+status: 3
+tags: []
+user_id: '28215'

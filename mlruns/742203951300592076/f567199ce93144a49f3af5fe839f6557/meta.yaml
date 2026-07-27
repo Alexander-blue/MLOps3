@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/f567199ce93144a49f3af5fe839f6557/artifacts
+end_time: 1785139998015
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: f567199ce93144a49f3af5fe839f6557
+run_name: gentle-fox-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139997921
+status: 3
+tags: []
+user_id: '28215'

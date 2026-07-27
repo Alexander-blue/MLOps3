@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/e372f49268e84bd793866c80d79c84e0/artifacts
+end_time: 1785139993368
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: e372f49268e84bd793866c80d79c84e0
+run_name: youthful-kite-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139993283
+status: 3
+tags: []
+user_id: '28215'

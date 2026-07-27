@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/a8767701a51a46c594eb24b96d84c203/artifacts
+end_time: 1785139994745
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: a8767701a51a46c594eb24b96d84c203
+run_name: charming-bee-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139994660
+status: 3
+tags: []
+user_id: '28215'

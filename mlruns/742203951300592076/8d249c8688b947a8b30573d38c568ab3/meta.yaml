@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/8d249c8688b947a8b30573d38c568ab3/artifacts
+end_time: 1785139999174
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 8d249c8688b947a8b30573d38c568ab3
+run_name: welcoming-hare-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139999091
+status: 3
+tags: []
+user_id: '28215'

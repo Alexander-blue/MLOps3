@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/ecdd5007891644b4992bebb364e7611a/artifacts
+end_time: 1785139994853
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: ecdd5007891644b4992bebb364e7611a
+run_name: receptive-shrimp-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139994764
+status: 3
+tags: []
+user_id: '28215'

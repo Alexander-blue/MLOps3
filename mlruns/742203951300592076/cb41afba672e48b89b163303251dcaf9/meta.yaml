@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/cb41afba672e48b89b163303251dcaf9/artifacts
+end_time: 1785139993584
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: cb41afba672e48b89b163303251dcaf9
+run_name: classy-turtle-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139993500
+status: 3
+tags: []
+user_id: '28215'

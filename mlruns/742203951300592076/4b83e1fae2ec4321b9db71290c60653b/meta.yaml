@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/4b83e1fae2ec4321b9db71290c60653b/artifacts
+end_time: 1785139995669
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 4b83e1fae2ec4321b9db71290c60653b
+run_name: casual-elk-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139995582
+status: 3
+tags: []
+user_id: '28215'

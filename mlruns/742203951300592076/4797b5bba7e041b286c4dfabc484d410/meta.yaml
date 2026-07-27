@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/4797b5bba7e041b286c4dfabc484d410/artifacts
+end_time: 1785139993786
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 4797b5bba7e041b286c4dfabc484d410
+run_name: peaceful-tern-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139993705
+status: 3
+tags: []
+user_id: '28215'

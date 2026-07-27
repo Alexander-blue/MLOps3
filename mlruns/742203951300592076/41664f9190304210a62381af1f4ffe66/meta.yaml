@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/41664f9190304210a62381af1f4ffe66/artifacts
+end_time: 1785139997571
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 41664f9190304210a62381af1f4ffe66
+run_name: dashing-snipe-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139997483
+status: 3
+tags: []
+user_id: '28215'

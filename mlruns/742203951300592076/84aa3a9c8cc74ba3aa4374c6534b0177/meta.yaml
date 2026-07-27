@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/84aa3a9c8cc74ba3aa4374c6534b0177/artifacts
+end_time: 1785139995356
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 84aa3a9c8cc74ba3aa4374c6534b0177
+run_name: skittish-auk-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139995276
+status: 3
+tags: []
+user_id: '28215'

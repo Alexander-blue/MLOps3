@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/30c4ecccb438479786a69a86c7cd519c/artifacts
+end_time: 1785139997138
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 30c4ecccb438479786a69a86c7cd519c
+run_name: magnificent-lynx-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139997055
+status: 3
+tags: []
+user_id: '28215'

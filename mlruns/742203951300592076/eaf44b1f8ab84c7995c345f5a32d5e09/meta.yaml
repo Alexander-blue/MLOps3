@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/eaf44b1f8ab84c7995c345f5a32d5e09/artifacts
+end_time: 1785139998329
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: eaf44b1f8ab84c7995c345f5a32d5e09
+run_name: sincere-crane-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139998248
+status: 3
+tags: []
+user_id: '28215'

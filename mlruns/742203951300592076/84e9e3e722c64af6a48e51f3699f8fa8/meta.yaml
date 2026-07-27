@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/84e9e3e722c64af6a48e51f3699f8fa8/artifacts
+end_time: 1785139997463
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 84e9e3e722c64af6a48e51f3699f8fa8
+run_name: agreeable-bear-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139997378
+status: 3
+tags: []
+user_id: '28215'

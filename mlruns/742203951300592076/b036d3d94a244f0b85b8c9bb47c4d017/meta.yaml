@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/b036d3d94a244f0b85b8c9bb47c4d017/artifacts
+end_time: 1785139992870
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: b036d3d94a244f0b85b8c9bb47c4d017
+run_name: secretive-shrew-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139992784
+status: 3
+tags: []
+user_id: '28215'

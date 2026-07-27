@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/0e9b26b611784f4998238dae2eb5859c/artifacts
+end_time: 1785139998433
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 0e9b26b611784f4998238dae2eb5859c
+run_name: debonair-auk-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139998348
+status: 3
+tags: []
+user_id: '28215'

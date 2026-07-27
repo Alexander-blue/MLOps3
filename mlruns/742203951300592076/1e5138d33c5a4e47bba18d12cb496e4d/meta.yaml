@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/1e5138d33c5a4e47bba18d12cb496e4d/artifacts
+end_time: 1785139997037
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 1e5138d33c5a4e47bba18d12cb496e4d
+run_name: flawless-auk-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139996955
+status: 3
+tags: []
+user_id: '28215'

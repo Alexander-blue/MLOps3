@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/0db6bd9425fc4a2c8d48d2705128760a/artifacts
+end_time: 1785139999930
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 0db6bd9425fc4a2c8d48d2705128760a
+run_name: rumbling-cow-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139999851
+status: 3
+tags: []
+user_id: '28215'

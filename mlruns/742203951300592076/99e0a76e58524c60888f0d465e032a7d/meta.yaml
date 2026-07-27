@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/99e0a76e58524c60888f0d465e032a7d/artifacts
+end_time: 1785139996073
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 99e0a76e58524c60888f0d465e032a7d
+run_name: rogue-auk-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139995992
+status: 3
+tags: []
+user_id: '28215'

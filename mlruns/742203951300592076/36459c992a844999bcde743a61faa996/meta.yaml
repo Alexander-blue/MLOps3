@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/36459c992a844999bcde743a61faa996/artifacts
+end_time: 1785139992667
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 36459c992a844999bcde743a61faa996
+run_name: dashing-quail-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139992584
+status: 3
+tags: []
+user_id: '28215'

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/183fc71288584e28a756ef8216b19fe9/artifacts
+end_time: 1785139995871
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 183fc71288584e28a756ef8216b19fe9
+run_name: whimsical-colt-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139995787
+status: 3
+tags: []
+user_id: '28215'

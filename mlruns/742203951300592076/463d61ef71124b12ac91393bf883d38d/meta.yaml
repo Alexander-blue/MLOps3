@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/463d61ef71124b12ac91393bf883d38d/artifacts
+end_time: 1785139998229
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 463d61ef71124b12ac91393bf883d38d
+run_name: youthful-cat-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139998143
+status: 3
+tags: []
+user_id: '28215'

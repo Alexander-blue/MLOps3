@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/db749f6f3dcd41f18fae97f33ead7acd/artifacts
+end_time: 1785140002010
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: db749f6f3dcd41f18fae97f33ead7acd
+run_name: rogue-swan-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785140001928
+status: 3
+tags: []
+user_id: '28215'

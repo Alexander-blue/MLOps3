@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/295836eb63ee425382b258800b4a4ee0/artifacts
+end_time: 1785139993480
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 295836eb63ee425382b258800b4a4ee0
+run_name: loud-hog-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139993390
+status: 3
+tags: []
+user_id: '28215'

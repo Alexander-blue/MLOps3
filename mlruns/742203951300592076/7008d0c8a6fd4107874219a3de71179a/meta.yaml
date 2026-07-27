@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/7008d0c8a6fd4107874219a3de71179a/artifacts
+end_time: 1785139995157
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 7008d0c8a6fd4107874219a3de71179a
+run_name: aged-croc-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139995079
+status: 3
+tags: []
+user_id: '28215'

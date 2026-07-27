@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/66630a7deba043a78d4e2ff5afbf77aa/artifacts
+end_time: 1785139992165
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 66630a7deba043a78d4e2ff5afbf77aa
+run_name: luminous-ox-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139992076
+status: 3
+tags: []
+user_id: '28215'

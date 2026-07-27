@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/b14f6e2d28704a82abb20875da9b60de/artifacts
+end_time: 1785139994202
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: b14f6e2d28704a82abb20875da9b60de
+run_name: abundant-ox-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139994120
+status: 3
+tags: []
+user_id: '28215'

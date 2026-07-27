@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/9da10609b68c4b4dbc86bb8c8ec136cb/artifacts
+end_time: 1785139996173
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 9da10609b68c4b4dbc86bb8c8ec136cb
+run_name: nebulous-fawn-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139996091
+status: 3
+tags: []
+user_id: '28215'

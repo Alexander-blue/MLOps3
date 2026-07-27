@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/48776165f4f74f90b057e49149ecaf18/artifacts
+end_time: 1785139992264
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 48776165f4f74f90b057e49149ecaf18
+run_name: bemused-mink-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139992185
+status: 3
+tags: []
+user_id: '28215'

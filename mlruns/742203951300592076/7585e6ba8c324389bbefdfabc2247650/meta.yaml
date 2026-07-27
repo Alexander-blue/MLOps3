@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/7585e6ba8c324389bbefdfabc2247650/artifacts
+end_time: 1785140001910
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 7585e6ba8c324389bbefdfabc2247650
+run_name: trusting-robin-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785140001830
+status: 3
+tags: []
+user_id: '28215'

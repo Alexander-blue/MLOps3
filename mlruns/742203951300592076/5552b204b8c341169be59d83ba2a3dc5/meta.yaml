@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/5552b204b8c341169be59d83ba2a3dc5/artifacts
+end_time: 1785139993264
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 5552b204b8c341169be59d83ba2a3dc5
+run_name: welcoming-pig-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139993182
+status: 3
+tags: []
+user_id: '28215'

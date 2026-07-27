@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/8925e934e6d14069a7739a11a680e458/artifacts
+end_time: 1785139995456
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: 8925e934e6d14069a7739a11a680e458
+run_name: peaceful-koi-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139995374
+status: 3
+tags: []
+user_id: '28215'

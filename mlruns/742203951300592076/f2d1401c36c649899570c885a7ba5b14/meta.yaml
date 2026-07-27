@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/742203951300592076/f2d1401c36c649899570c885a7ba5b14/artifacts
+end_time: 1785139998123
+entry_point_name: ''
+experiment_id: '742203951300592076'
+lifecycle_stage: active
+run_id: f2d1401c36c649899570c885a7ba5b14
+run_name: serious-moth-852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785139998036
+status: 3
+tags: []
+user_id: '28215'
